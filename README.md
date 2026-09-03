@@ -47,12 +47,11 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.shion.dev/api?username=SulphArk&title_color=7EC854&text_color=cacccc&icon_color=7EC854&bg_color=101315&border_color=565d60&include_all_commits=true&count_private=false" />
-<img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=SulphArk&title_color=7EC854&text_color=cacccc&icon_color=7EC854&bg_color=101315&border_color=565d60&layout=compact&include_all_commits=true&count_private=false" />
+<img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=SulphShock&title_color=7EC854&text_color=cacccc&icon_color=7EC854&bg_color=101315&border_color=565d60&layout=compact&include_all_commits=true&count_private=false" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=SulphArk&background=101315&border=565d60&stroke=7EC854&ring=7EC854&fire=7EC854&currStreakLabel=7EC854&sideLabels=cacccc&currStreakNum=cacccc&sideNums=cacccc&dates=565d60" />
+<img src="https://streak-stats.demolab.com/?user=SulphShock&background=101315&border=565d60&stroke=7EC854&ring=7EC854&fire=7EC854&currStreakLabel=7EC854&sideLabels=cacccc&currStreakNum=cacccc&sideNums=cacccc&dates=565d60" />
 
 <br><br>
 
