@@ -13,7 +13,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Arch_Linux-101315?style=flat-square&logo=arch-linux&logoColor=7EC854&labelColor=343d41" /> <img src="https://img.shields.io/badge/Hyprland-101315?style=flat-square&logo=hyprland&logoColor=7EC854&labelColor=343d41" /> <img src="https://img.shields.io/badge/PyramidOS-7EC854?style=flat-square&color=101315&labelColor=DE6145" />
+<img src="https://img.shields.io/badge/Arch_Linux-101315?style=flat-square&logo=arch-linux&logoColor=7EC854&labelColor=343d41" /> <img src="https://img.shields.io/badge/Hyprland-101315?style=flat-square&logo=hyprland&logoColor=7EC854&labelColor=343d41" /> <img src="https://img.shields.io/badge/NuitOS-7EC854?style=flat-square&color=101315&labelColor=DE6145" />
 
 <br>
 
