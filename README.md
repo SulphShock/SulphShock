@@ -25,11 +25,7 @@
 
 <br>
 
-### 🌱 Currently Learning
-- 🐍 **Python** — scripting & tooling
 
-### 🔨 Currently Building
-- 🐧 <span style="color:#de6145;font-weight:bold">PyramidOS</span> — custom Arch-based Hyprland distribution
 
 ---
 
