@@ -19,7 +19,7 @@
 
 > *Complexity is admired by fools — experts admire simplicity.*
 > 
-> <small>— Terry A. Davis</small>
+> <small>  -Terry A. Davis</small>
 
 </div>
 
